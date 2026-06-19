@@ -84,7 +84,4 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Patil-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sumitpatil18)
 
-[![GitHub](https://img.shields.io/badge/GitHub-sumitpatil18-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sumitpatil18)
-
-
 [![GitHub](https://img.shields.io/badge/GitHub-sumitpatil18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitpatil18)
