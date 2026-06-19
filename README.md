@@ -22,6 +22,7 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitpatil18&show_icons=true)
 
 ## Contact
 - Mobile: 7821053279
