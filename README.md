@@ -1,9 +1,9 @@
 ## Hi 👋, I am Sumit Patil
-
+---
 ## About Me
 i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra University, Jalgaon by using knowledge of Java, Python, JavaScript, SQL, React.js, Node.js, and MySQL. I have experience building Real life solution applications, working with databases, and using Git/GitHub for version control. I am passionate about learning new technologies, solving problems, and developing efficient software solutions.
 
-
+---
 ## Skills(Technical & Soft Skills)   
 
 - **Programming languages :** C , Core java, SQL,  Python, JavaScript, DSA.
@@ -14,7 +14,7 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 - **Electronics Sensors :** Ultrasonic sensor, DTH11 Temperature & Humidity sensor, Sim800L GSM Module etc.
 - **Soft Skills:** Teamwork, Problem-Solving, Communication.
 
-
+---
 ## 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
@@ -63,6 +63,8 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 
 ## 🔌 Electronics & IoT
 
+![Arduino](https://img.shields.io/badge/Arduino%20UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Ultrasonic Sensor](https://img.shields.io/badge/Ultrasonic%20Sensor-FF9800?style=for-the-badge)
 ![DHT11](https://img.shields.io/badge/DHT11%20Sensor-4CAF50?style=for-the-badge)
 ![SIM800L](https://img.shields.io/badge/SIM800L%20GSM%20Module-2196F3?style=for-the-badge)
@@ -75,7 +77,7 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge)
 ![Communication](https://img.shields.io/badge/Communication-673AB7?style=for-the-badge)
 
-
+---
 ## Contact
 - Mobile: 7821053279
 - Email: sumitpatil17020@gmail.com
