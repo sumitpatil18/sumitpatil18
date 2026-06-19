@@ -19,5 +19,6 @@
 
 ## Contact
 
-- Email: yourmail@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Mobile: 7821053279
+- Email: sumitpatil17020@gmail.com
+- LinkedIn: https://linkedin.com/in/sumitpatil18](https://www.linkedin.com/in/sumitpatil18
