@@ -21,4 +21,4 @@
 
 - Mobile: 7821053279
 - Email: sumitpatil17020@gmail.com
-- LinkedIn: https://linkedin.com/in/sumitpatil18](https://www.linkedin.com/in/sumitpatil18
+- LinkedIn: https://www.linkedin.com/in/sumitpatil18
