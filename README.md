@@ -5,13 +5,13 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 
 ## Skills(Technical & Soft Skills)   
 
-- **• Programming languages :** C , Core java, SQL,  Python, JavaScript, DSA.
-- **• Web Technologies :** HTML,CSS. 
-- **• Database & Backend:** MySQL, PostgreSQL, JDBC.
-- **• Framework :** AWT, Tkinter, React.js,Node.js.
-- **• Tools/Platforms:** Git, GitHub, VS Code, Notepad, Dev C++, Turbo c.
-- **• Electronics Sensors :** Ultrasonic sensor, DTH11 Temperature & Humidity sensor, Sim800L GSM Module etc.
-- **• Soft Skills:** Teamwork, Problem-Solving, Communication.
+- **Programming languages :** C , Core java, SQL,  Python, JavaScript, DSA.
+- **Web Technologies :** HTML,CSS. 
+- **Database & Backend:** MySQL, PostgreSQL, JDBC.
+- **Framework :** AWT, Tkinter, React.js,Node.js.
+- **Tools/Platforms:** Git, GitHub, VS Code, Notepad, Dev C++, Turbo c.
+- **Electronics Sensors :** Ultrasonic sensor, DTH11 Temperature & Humidity sensor, Sim800L GSM Module etc.
+- **Soft Skills:** Teamwork, Problem-Solving, Communication.
 
 -  
 ## Contact
