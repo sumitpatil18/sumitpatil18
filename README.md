@@ -78,7 +78,10 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 ![Communication](https://img.shields.io/badge/Communication-673AB7?style=for-the-badge)
 
 ---
-## Contact
-- Mobile: 7821053279
-- Email: sumitpatil17020@gmail.com
-- LinkedIn:
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-sumitpatil17020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitpatil17020@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sumitpatil18](https://www.linkedin.com/in/sumitpatil18)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sumitpatil18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitpatil18)
