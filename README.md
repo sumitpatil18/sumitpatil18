@@ -7,7 +7,8 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 ## Skills(Technical & Soft Skills)   
 
 - **Programming languages :** C , Core java, SQL,  Python, JavaScript, DSA.
-- **Web Technologies :** HTML,CSS. 
+- **Web Technologies :** HTML,CSS.
+- <br> 
 - **Database & Backend:** MySQL, PostgreSQL, JDBC.
 - **Framework :** AWT, Tkinter, React.js,Node.js.
 - **Tools/Platforms:** Git, GitHub, VS Code, Notepad, Dev C++, Turbo c.
@@ -22,7 +23,6 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitpatil18&layout=compact)
 
 ## Contact
 - Mobile: 7821053279
