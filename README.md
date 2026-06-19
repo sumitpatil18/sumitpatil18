@@ -1,6 +1,7 @@
 ## Hi 👋, I am Sumit Patil
 
 ## About Me
+i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra University, Jalgaon
 
 - MCA Student
 - Learning React.js & Node.js
