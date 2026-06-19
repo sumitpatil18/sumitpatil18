@@ -4,6 +4,8 @@
 i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra University, Jalgaon by using knowledge of Java, Python, JavaScript, SQL, React.js, Node.js, and MySQL. I have experience building Real life solution applications, working with databases, and using Git/GitHub for version control. I am passionate about learning new technologies, solving problems, and developing efficient software solutions.
 
 ## Skills(Technical & Soft Skills)
+
+
  -**• Programming languages :** C , Core java, SQL,  Python, JavaScript, DSA. 
  -**• Web Technologies :** HTML,CSS. 
  -**• Database & Backend:** MySQL, PostgreSQL, JDBC. 
