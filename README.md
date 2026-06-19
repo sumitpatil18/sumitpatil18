@@ -13,7 +13,6 @@ i'm **Master's in Computer Application (MCS)** student at KBC North Maharashtra 
 - **Electronics Sensors :** Ultrasonic sensor, DTH11 Temperature & Humidity sensor, Sim800L GSM Module etc.
 - **Soft Skills:** Teamwork, Problem-Solving, Communication.
 
--  
 ## Contact
 
 - Mobile: 7821053279
